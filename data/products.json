@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "Product AAAA",
+    "name": "HHHH",
     "price": 100,
     "description": "Description for product A.",
     "categories": [
@@ -10,7 +10,7 @@
   },
   {
     "id": 2,
-    "name": "Product B",
+    "name": "GGGG",
     "price": 200,
     "description": "Description for product B.",
     "categories": [
@@ -20,7 +20,7 @@
   },
   {
     "id": 3,
-    "name": "Product CCC",
+    "name": "LJjb",
     "price": 150,
     "description": "Description for product C.",
     "categories": [
@@ -29,7 +29,7 @@
   },
   {
     "id": 4,
-    "name": "Product D",
+    "name": ";kjhiugk",
     "price": 250,
     "description": "Description for product D.",
     "categories": [
@@ -38,7 +38,7 @@
   },
   {
     "id": 5,
-    "name": "test",
+    "name": "liyhbl",
     "price": 999,
     "description": "...",
     "categories": [
