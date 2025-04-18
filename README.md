@@ -55,7 +55,7 @@ online-shop/
 1. **Клонируйте репозиторий:**
 
    ```bash
-   git clone https://github.com/ptmff/mirea_frontend_simple-shop
+   git clone https://github.com/fuglyy/7-8.git
    cd mirea_frontend_simple-shop
    ```
 
